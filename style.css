@@ -1,0 +1,36 @@
+h1{
+    font-family: "Brush Script MT", 'Courier New';
+    color: rgb(216, 64, 64);
+    font-weight: 1000;
+    background-color: rgb(206, 214, 134);
+    text-align: center;
+}
+
+h2{
+    font-family: "Brush Script MT", 'Courier New';
+    color: rgb(117, 64, 216);
+    font-weight: 1000;
+    background-color: rgb(10, 106, 231);
+    text-align: center;
+}
+
+p,
+ol,
+ul{
+    font-family: "Brush Script MT", 'Courier New';
+    color: rgb(255, 251, 0);
+    font-weight: 1000;
+    background-color: rgb(95, 10, 231);
+}
+
+ul a{
+    font-family: "Brush Script MT", 'Courier New';
+    color: rgb(0, 206, 10);
+    font-weight: 1000;
+    background-color: brown;
+}
+
+img{
+    width: 500px;
+    height: 500px;
+}
